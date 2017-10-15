@@ -1,2 +1,2 @@
-# helloword
-开始
+Hi,jam;
+have a good day!
